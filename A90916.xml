@@ -1,0 +1,545 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case and vindication of John Poyntz, alias Morrice, and his friends or, The first part of their long proceedings and oppression in the House of Lords who never could be released, notwithstanding the judges of Englands report for their deliverance, but are denyed the benefit of the common law, which is the subjects birth-right and inheritance : this is declared for the satisfaction of all those that wish well, and that will stand up to maintain truth, and that desire their brother commoners deliverances, and to know the oppressors from the oppressed, and what the right and interest of a commoner is, by the great Charter of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90916</idno>
+            <idno type="STC">Wing P3131D</idno>
+            <idno type="STC">ESTC R42282</idno>
+            <idno type="EEBO-CITATION">36272542</idno>
+            <idno type="OCLC">ocm 36272542</idno>
+            <idno type="VID">150169</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150169)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2234:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case and vindication of John Poyntz, alias Morrice, and his friends or, The first part of their long proceedings and oppression in the House of Lords who never could be released, notwithstanding the judges of Englands report for their deliverance, but are denyed the benefit of the common law, which is the subjects birth-right and inheritance : this is declared for the satisfaction of all those that wish well, and that will stand up to maintain truth, and that desire their brother commoners deliverances, and to know the oppressors from the oppressed, and what the right and interest of a commoner is, by the great Charter of England.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed] in the Year 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: cropped, broken type, and print show-through, with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poyntz, John, fl. 1647-1650.</term>
+               <term>Inheritance and succession --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:150169:1" rendition="simple:additions"/>
+            <head>The Caſe and Vindication of <hi>John Poyntz,</hi> alias <hi>Morrice,</hi> and his Friends. OR The firſt part of their long proceedings and oppreſſion in the Houſe of Lords, who nev<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> could be releaſed, notwithſtanding the Judges of <hi>Englands</hi> Report for their deliveranc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but are denyed the benefit of the Common Law, which is the Subjects birth-right and i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>heritance: This is declared for the ſatisfaction of all thoſe that wiſh well, and that wi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtand up to maintain truth, and that deſire their brother Commoners deliverances, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to know the oppreſſors from the oppreſſed, and what the right and intereſt of a Common<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is, by the great Charter of <hi>England. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in the Year. 1648.</hi>
+            </head>
+            <p>About <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 1594 <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> between <hi>John Morrice</hi> and <hi>Katherine </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and daughter of <hi>James Morrice,</hi> Eſquire of <hi>Chipping-onger,</hi> and of <hi>Gabriell Poyntz no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thokenden</hi> Eſquire; upon which Contract an agreement was made, and conveiances draw for the ſetling the eſtates of the two Fathers, to the value of above 2000 <hi>li per annum,</hi> upo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>John</hi> and <hi>Katherine</hi> for life, and their heirs male of their two bodies for term of life and in caſe or ſuch default, then upon <hi>Edward</hi> the ſecond ſon of the foreſaid <hi>James Morrice</hi> for life, and to the heirs male of his body for life, and in caſe of ſuch default, then upon the right heirs male of the body of the ſaid <hi>James Morr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce</hi> for ever.</p>
+            <p>That the foreſaid <hi>John Morrice</hi> and his heirs male have, (from the time of ſettlement) born up the name of <hi>Poyntz,</hi> as they became heirs, from heir to heir, and ſo doth this that now is in priſon; in order whereunto the ſaid <hi>John Morrice</hi> that married <hi>Katherin</hi> was entered into the Heralds books by the name of <hi>Poyntz,</hi> alias <hi>Morrice</hi> upon his marriage, and the Arms of both families have been born up by the <hi>Morrices</hi> ever ſince alſo: the ſucceſſion ſtands thus;</p>
+            <p>
+               <hi>James Morrice</hi> had to male iſſue <hi>Iohn</hi> and <hi>Ed<g ref="char:EOLhyphen"/>ward. Gabriel Poyntz</hi> had to iſſue <hi>Thomas,</hi> and the a<g ref="char:EOLhyphen"/>foreſaid <hi>Kath<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rine.</hi>
+            </p>
+            <p>
+               <hi>John</hi> and <hi>Katherine</hi> had male iſſue, <hi>Iames, Poynts,</hi> and <hi>Uranus.</hi>
+            </p>
+            <p>
+               <hi>Uranus</hi> the youngeſt ſon dyed firſt, without iſſue.</p>
+            <p>
+               <hi>Iame<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the eldeſt ſon of <hi>Iohn</hi> and <hi>Katherine</hi> had to male iſſue <hi>Richard,</hi> who dyed about the age of 20. without iſſue.</p>
+            <p>
+               <hi>Poyntz Poyntz,</hi> the ſecond ſon of <hi>John</hi> and <hi>Katherine</hi> enjoyed the ſaid eſtate after the deceaſe of <hi>Richard</hi> his brothers ſon, and dyed without iſſue, at whoſe death the male iſſue of <hi>Iohn</hi> and <hi>Katherine</hi> ceaſed, and then the e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tate falls to <hi>Edward</hi> the foreſaid <hi>Iohn</hi>'s brother, the ſecond ſon of <hi>Iames Morrice</hi> ſenior as a<g ref="char:EOLhyphen"/>foreſaid, <hi>Edward</hi> was dead before the ſaid eſtate fell, and left male iſſue, this <hi>Iohn Poyntz</hi> alias <hi>Morrice</hi> now in poſſeſſion, according to Law, as afterwards will ap<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar.</p>
+            <p>
+               <hi>Thomas</hi> dyed underage, before this Contract of <hi>Iohn Morrice</hi> with his Siſter <hi>Katherine,</hi> leaving iſſue two daughters, <hi>Audry</hi> and <hi>Suſanna,</hi> to wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m the Grandfather <hi>Gabriel Poynts</hi> ſet out 3000 l. for their portions out of the eſtate ſetled upon <hi>John</hi> and <hi>Ka<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herine,</hi> which 3000 l. was accordingly paid by <hi>Iohn Poyntz,</hi> alias <hi>Morric<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> beſides 1000 l. paid by the ſaid <hi>Iohn</hi> to the ſaid <hi>Gabriel,</hi> and <hi>Iames,</hi> in liew for the better advancement of them and their heirs, not mentioned in the ſaid conveighances, and to free the ſaid <hi>Iohn</hi> from all incombrances and ſuits which might otherwiſe happen by reaſon of the ſaid Contract, Bond was given, that of the ſaid <hi>Audry</hi> or <hi>Suſauna</hi> ſhould diſturb the heirs of the <hi>Morrices</hi> in their poſſeſſion of the premiſes, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſhould loſe their portions.</p>
+            <p>And for the more effectual inveſting the title and right to the premiſes, according to the ſaid deeds and Contract. An Act of Parliament as obtained in or about the 43 of <hi>Elizabeth,</hi> for the ſetling the ſame upon <hi>Iohn Poyntz,</hi> alias <hi>Morrice,</hi> and the reſt of the heirs male of the <hi>Morrices;</hi> by deeds and Act they the ſaid <hi>Iohn</hi> and <hi>Katherine:</hi> and their heirs have held and poſſeſſed the ſaid eſtate.</p>
+            <p>Now that the eſtate was really ſetled upon the ſaid heirs male of the <hi>Morrices,</hi> and by them poſſeſſed 49 years, and never in any other name to this day. I here are theſe clear evidences, beſides all the Te<g ref="char:EOLhyphen"/>nants to witneſs the ſame.</p>
+            <p n="1">1. Several evidences confirmed by an Act of Parliament; as for example, 3 fines levyed at S. <hi>Al<g ref="char:EOLhyphen"/>bons,</hi> dated 37. of <hi>Eliz.</hi> A Plea in the Chequor, 38 of <hi>Eliz</hi> A Pattent under the great Seal, 2. <hi>Auguſt,</hi> 38. of <hi>El<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z.</hi> An Indenture dated the 1 of <hi>March,</hi> 38. of <hi>Eliz.</hi> Four ſeveral offices found upon this
+<pb facs="tcp:150169:2" rendition="simple:additions"/>
+               <pb n="1" facs="tcp:150169:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:150169:3"/>
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Poyntz,</hi> alias <hi>Morrice.</hi> The firſt the 17. of <hi>September</hi> before <hi>Iohn Tuke</hi> Eſquire, 20. of <hi>Caroli</hi> in <hi>Eſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> The ſecond on the 12. oft <hi>ſepſember</hi> before the ſame <hi>Tuke</hi> in the ſame year. The third on the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. of <hi>October,</hi> 21. of <hi>Caroli</hi> in <hi>Guild-Hall London,</hi> in the majoralty of Alderman <hi>Atkins.</hi> The fourth c 23. of <hi>December,</hi> 21. <hi>Caroli</hi> in <hi>Guild-Hall London,</hi> in the majorality of Alderman <hi>Adams,</hi> Two In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nctions for poſſeſſion given by Sir <hi>Rowland Wansford</hi> of the Court of Wards, one for the Lands in <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſex,</hi> and the other for Lands in <hi>London,</hi> dated 31. of <hi>Ianuary</hi> 1645. 21. <hi>Caroli.</hi> The acknowledgment <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all the Tenants upon ſight of the ſame, who upon knowledg of his title gave poſſeſſion, and made <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>turnenent according to Law. After all which by a verdict at the Kings Bench, upon a tryal for a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ynture, concerning Lady <hi>Poyntz,</hi> alias <hi>Morrice,</hi> who is now wife to M. <hi>Burrows</hi> Eſquire; the title was <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nfirmed to this <hi>Iohn Poyntz,</hi> alias <hi>Morrice,</hi> as he was found heir at Law, ſave about 400 l. <hi>per annum,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ring her natural life; upon all which clear proofs the Committee at Haberdaſhers Hall iſſued our Bill in his name the 4. of <hi>March</hi> 1645. for his twentieth part of the ſaid eſtate, and by vertue thereof <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>opt the Rent in the Tenants hands, till ſatisfaction was given to that Committee. Notwithſtanding <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll which, one Sir <hi>Adam Littleton,</hi> that married <hi>Audry</hi> the grandchild of the foreſaid <hi>Gabriel,</hi> upon pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence of a collateral deed by which he pretends a title to the Lands in queſtion, (as ſoon as the laſt heir was dead,) Sureptitiouſly a Trunk of writings and evidences were broke open in Sir <hi>Foulk Gre<g ref="char:EOLhyphen"/>vil</hi> his houſe in <hi>London,</hi> being the place of his departure; his wife having the key in her pocket, who never knew it till three days after, about which time Sir <hi>Foulk Grevil,</hi> and Sir <hi>Adam Littleton</hi> gave out, that this ſaid <hi>Poyntz,</hi> alias <hi>Morrice</hi> was a baſtard, although they both knew the contrary, all which he was forced to cleer by witneſſes upon oath to his dammage 30. l. and not only ſo, but to obſcure the truth, money was given, and writings bought of the wife of the deceaſed heir for a thouſand pounds; having to this day by that indirected means with-held and concealed all the writings and evidences taken at the breaking of the Trunk; and Sir <hi>Foulk Grevil</hi> pretended a title by a will, alias deed of gifts, made by the deceaſed heir, of 200. l. <hi>per annum,</hi> given to his two ſons, which hath been produced amongſt the Te<g ref="char:EOLhyphen"/>nants, and by them diſclaimed, as declaring their knowledg, that the eſtate was to paſs from male to male of the <hi>Morrices.</hi> After all which the ſaid Sir <hi>Adam Littleton</hi> to colour his wicked practiſes, and to obſcure the truth, and defraud the ſaid <hi>Morrice</hi> of his right, got the Land ſequeſtred, to put <hi>Morrice</hi> out of his lawful poſſeſſion, and hath entered into a Combination with ſeveral perſons, viz. <hi>Iohn Brown</hi> Clerk of the Houſe of Lords, and others, &amp;c. by whoſe power and policy he the ſaid Sir <hi>Adam Littleton</hi> and his accomplices hath not only got an advantage to ſecure themſelves from condign puniſhment for their wicked practiſes, but alſo hath laid many falſe accuſations upon the ſaid <hi>Poyntz,</hi> alias <hi>Morrice,</hi> thereby endeavoring not only to blaſt his repute deſtroy his title, and with hold his right, but alſo bring his life, and his witneſſes, and all that appear in his cauſe in danger, as ſhall appear by the ſubſequent Narrative.</p>
+            <p>For when the ſaid <hi>Morrice</hi> found himſelf deprived of the benefit of his evidences, by which his Anceſtors enjoyed the eſtate, which uſed to be delivered from heir to heir, he was neceſſitated to make a ſtrict ſearch in all Courts of Record, by means whereof he made ſuch a clear diſcovery of his title, that had not Sir <hi>Adam</hi> and his accomplices ſold themſelves to do wickedly, it had not been poſſible for him to have found out a way to deprive <hi>Poyntz,</hi> alias <hi>Morrice</hi> of his rights, or peaceable enjoyment of his poſ<g ref="char:EOLhyphen"/>ſeſſion in the premiſes.</p>
+            <p>For 1. <hi>Poyntz,</hi> alias <hi>Morrice</hi> upon ſearch found that there was an Act of Parliament by which theſe Lands in queſtion was confirmed on the heirs male of the <hi>Morrices;</hi> a Copy of which Act he the ſaid <hi>Poyntz,</hi> alias <hi>Morrice</hi> procured with M <hi>Brown</hi>'s hand to it, given by M. <hi>Will. Hunt</hi> an under Clerk of the Houſe of Commons, which Copy was examined in M. <hi>Browns</hi> office, and afterward being ſhewed to M. <hi>Brown,</hi> and told it was queſtioned by Sir <hi>Adam Littleton,</hi> the ſaid M. <hi>Brown</hi> took it, and looked upon it, and gave it back, ſaying, who dare deny it? And yet after all this the ſaid <hi>Brown</hi> having entered into a Combination with the ſaid Sir <hi>Adam,</hi> and having as is conceived for the conſideration of a great yearly value payd out of the eſtate, to be conveighed and aſſured by <hi>Littleton</hi> unto him the ſaid <hi>Brown,</hi> his heirs, &amp;c. hath perſwaded and warranted the ſame eſtate unto the ſaid Sir <hi>Adam;</hi> for Sir <hi>Adam</hi> ſaid, that after he ſaw the Copy of the Act he would not have troubled <hi>Poyntz,</hi> alias <hi>Morrice,</hi> but by M. <hi>Browns</hi> perſwaſions. In order whereunto he the ſaid M. <hi>Brown</hi> hath ſince denyed his hand, before acknowledg<g ref="char:EOLhyphen"/>ed by himſelf, in ſaying, who dare deny it? and being ſhewed to divers Councelors in Weſtminſter Hall, every one ſaid it was his hand, or elſe they never ſaw it; and they the ſaid <hi>Brown</hi> and <hi>Littleton</hi> cauſed the ſaid <hi>Poyntz,</hi> alias <hi>Morrice</hi> his wife and witneſſes, &amp;c. to be impriſoned by vertue of the Lords Order
+<pb n="3" facs="tcp:150169:3"/>for a pretended forgery of an Act of Parliament, although not one witneſs was examined to prove th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> truth, but only M. <hi>Browns</hi> own report and <hi>Littletons,</hi> and cauſed the ſaid Act to be condemned in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lords Houſe as a forged Act, although it were upon record in his own office, and ſo acknowledged to b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as will be proved, and upon record in the treaſury of the Court of Wards with other evidences, and Plea of a deed found in the Tower, alſo ſetling the ſaid eſtate upon the heirs male of the <hi>Morrices,</hi> C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pies given and atteſted by all the reſpective Officers of ſeveral treaſuries; but now for fear of M. <hi>Brow.</hi> denyed by all but M. <hi>Audly</hi> the maſter of the office of the Court of Wards, who hath and doth ſtand <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the atteſting Copies under his hands, (notwithſtanding M. <hi>Brown</hi> hath often threatned him for deliv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ring the ſame, becauſe they were againſt him, and not only ſo, but endeavouring to have the ſaid <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Audly</hi> fined and turned out of his place, pretending that all the ſaid Records are forged by the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Poyntz,</hi> alias <hi>Morrice</hi> and his friends, which is both improbable and impoſsible, viz. That an Act of Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>liament ſhould be forged, containing the names of ſeveral perſons in whoſe tenure and occupation <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Lands at the date thereof were, and that the original ſhould be ſhuffled into M. <hi>Browns</hi> treaſu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and a Copy thereof with other Records into the treaſuries of the Court of Wards, and the Plea of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deed into the Tower of <hi>London,</hi> and there be found under lock and key, lying amongſt all other R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cords, old and dusky, not to be touched without ſweeping firſt juſt at this time to make out an unknow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> title, and all by an illitterate woman which can neither write nor read Lattin, nor knows not what La<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> is, and this is one of the chief ſlights (As theſe men pretend, and will make the world beleeve it, a which will be a matter hardly to be credited by any rational man.) But that it is not only improbab<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and impoſſible, but alſo a falſe ſlander, ſhall be clearly proved ſeveral ways. For although a Copy the Plea found in the Tower had formerly been given and atteſted by M. <hi>Collet</hi> of that office deceaſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and although it was ſhown to M. <hi>Riley</hi> now Officer there by two Councel, and the original deſired to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeen, the ſaid <hi>Riley</hi> refuſed it without an order from the Lords, ſaying, it concerned M. <hi>Brown;</hi> and afte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>wards when M. <hi>Rileys</hi> Clerk did ſearch and find the original in his preſence, and in the preſence <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Poyntz,</hi> alias <hi>Morrice</hi> friends; he the ſaid <hi>Riley</hi> fell out with the Clerk, ſaying, you might have chuſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whether you would have found it, for you knew it was againſt M. <hi>Brown,</hi> and locked him out of the offic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> two days.</p>
+            <p n="2">2. The ſaid Act hath been acknowledged and examined with the Record in maſter <hi>Brownes</hi> office and to be delivered out by M. <hi>William Hunt,</hi> with M. <hi>Browns</hi> hand to it, as will be proved by many wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſſes.</p>
+            <p n="3">3. The ſaid M. <hi>Brown</hi> and <hi>Littleton</hi> now acknowledg that there is an Act for the ſale of part of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eſtate, made in King <hi>James</hi> his time, when it was in the poſſeſſion of Sir <hi>James Poyntz,</hi> alias <hi>Morrice,</hi> th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſon of <hi>John</hi> and <hi>Katherine.</hi> Now it is cleer, that unleſs the eſtate had been ſetled upon the father, an ſo upon the heirs male of the <hi>Morrices</hi> by an Act, the ſon might have alienated part of the eſtate fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the payment of his debts by fine and recovery, as firmly, and with leſs charge by far then by Act <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parliament; but being ſetled by Act, he muſt of neceſſity have an Act to enable him in the alienation<g ref="char:punc">▪</g>
+            </p>
+            <p>But thirdly, there was no reaſon why this <hi>Poyntz</hi> alias <hi>Morrice</hi> ſhould forge, or cauſe an Act of Parli<g ref="char:EOLhyphen"/>ament to be forged to maintain his Title, he being able to prove that his Anceſtors enjoyed the ſam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eſtate 49 years, and never in any other name ſince that ſetlement; and he himſelf having had ſo many offices found for him, beſides a Verdict confirming his Title by Law, and the Tenants yeelding him poſſeſſion and turning Tenants unto him, which was a better Title by far, without the Act of Parlia<g ref="char:EOLhyphen"/>ment, then ever Sir <hi>Adam Littleton</hi> could make or ſhow for the premiſes, which is nothing but a Colat<g ref="char:EOLhyphen"/>teral Deed made about four years after the deceaſe of the foreſaid <hi>Iames</hi> that ſetled this eſtate, to whom all the right and intereſt of the foreſaid <hi>Gabriel</hi> was paſt, and to the Heirs males of his body for ever; and beſides the ſaid Collateral Deed hath no fine and recovery upon it, neither is it inrolled, therefore is of no validity, there being not any Vouchers to make it good when it was made, for <hi>James</hi> was dead and <hi>Iohn</hi> that married <hi>Katherine</hi> was but a termer for life; So that theſe things being duly weighed and conſidered, it cannot be adjudged other then a wicked and malicious ſlander caſt upon the ſaid <hi>Poyntz</hi> alias <hi>Morrice</hi> and his friends by the ſaid Sir <hi>Adam Littleton,</hi> and Mr <hi>Brown,</hi> &amp;c. Every particular of whoſe proceedings herein, in relation to the Premiſes, ſhall be declared more particularly in ſeveral ſubſequent Articles, for your better information.</p>
+            <p>But to proceed; Upon the falſe ſuggeſtion of Mr <hi>Brown</hi> and <hi>Littleton,</hi> &amp;c. by his prevalence in the Lords Houſe, and making <hi>Littleton</hi> acquainted with all <hi>Poyntz</hi> alias <hi>Morrice</hi>'s proceedings, before any hearing could be had, he cauſed the ſaid Copies, of the Acts and other Records found as aforeſaid, to
+<pb n="4" facs="tcp:150169:4"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ondemned, and <hi>Iohn Poynnz</hi> alias <hi>Morrice</hi> and <hi>Mary</hi> his Wife, <hi>Leonard Da<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>by, Iohn Harris,</hi> and <hi>Iſabel<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th,</hi> to be ſeized upon by vertue of the Lords Order, and to be carryed to four ſeveral priſons, <hi>Ludgate, Newgate, Counter,</hi> and <hi>Kings Bench,</hi> there to be impriſoned during pleaſure. The date of Warrant by which they were kept in priſon above three weeks before they were brought before Lords upon Mr <hi>Browns</hi> Command, was the 11<hi>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> the date of the Commitment to priſon by the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds during pleaſure; <hi>Die Lunae ſeptimo Iunit,</hi> 1647.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y colour of which firſt Order, the ſaid <hi>Iohn Brown</hi> Clerk of the houſe of Lords together with Mr <hi>Wil. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>leton,</hi> Mr <hi>Baker,</hi> and others, &amp;c. about eleven of the clock at night came with a Conſtable, to the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or the ſaid <hi>Iohn Poyatz,</hi> alias <hi>Morrice,</hi> whom the ſaid <hi>Iohn Brown</hi> commanded to break open door, and being by the Conſtable asked for a Warrant, he replyed, It is ſufficient that I ſay it, I am Clerk to the Parliament; or words to that effect; upon which the Conſtable returned him anſwer, <hi>viz.</hi> That that was no ſufficient Warrant for him to break open any mans houſe, and there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e bad him do it himſelf, which he according<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y violently did, when having ſearched the houſe and not <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ding the Copy of the ſaid act, he ſeized and took away all <hi>Poyatz</hi> alias <hi>Morrice</hi>'s other Writings and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oks of Accounts, all which he detains to this day, contrary to Law, for the doing whereof he had Warrant but his own Will, who, it appears, thinks himſelf above all Law, becauſe he is Clerk to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e houſe of Lords. But when he had thus broke up the houſe, ſeized the writings, and given them to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e adverſary <hi>Littleton</hi> to read, &amp;c. he alſo, by vertue of the ſaid Warrant, attached the perſons of <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bella Smith, Mary Poyntz</hi> alias <hi>Morrice, Leonard Darby,</hi> and <hi>Iohn Harris,</hi> and retained them in cu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dy about three week before ever any thing was layd to their Charge or they brought before any le<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l Magiſtrate; all which proceedings of the ſaid <hi>Brown</hi> and <hi>Littleton, &amp;c.</hi> are altogether illegal, ſhall be fully demonſtrated.</p>
+            <p>For firſt, the Warrant it ſelf is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llegal, as not coming from perſons legally authorized to take the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gnizance of the Crimes of Commoners; For no Free-man ought to be taken, or impriſoned, or <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ized of his Freehold, or Liberties, or Cuſtom, or be out-lawed or exiled, or any other ways de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>royed, neither paſſed upon nor condemned, but by the lawful judgment of his Peers, or by the Law the Land, viz. By the judgment of twelve men of his equals; If a Lord, by twelve Peers; If a commoner, by twelve Commoners. And Sir <hi>Edw. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ook</hi> ſaith, in his Expoſition on the 29 chapter of <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>agna Charta;</hi> pag. 54. <hi>That if any man or men, by colour of any authority, which they have not legally, in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at particular caſe, for which they arreſt, or cauſe any man to be arreſted, or impriſoned, That it is againſt <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e great Charter, and is moſt hateful and deſtructive, when it is don<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the Countenance of juſtice.</hi> And it plain, That the Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d have not the leaſt legal juriſdiction over Commoners, and ſo cannot take the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gnizance of any pretended Crime, much leſs ought they to grant out Warrants to break the houſes <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Commoners or to ſeize upon their Goods, and impriſon the perſons of Commoners at their pleaſures, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen they have neither been pa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed upon by good and lawful men, nor nothing appears upon Record <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gainſt them, as by Law ought, no man being to be put ſo much as to anſwer, without preſentment be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore Juſtices, or matter of Record, or by writ original according to the old Law of the Land, as appears by <hi>Magna Charta</hi> 28. <hi>E.</hi> 3. <hi>Ch.</hi> 3.37. <hi>E</hi> 3 <hi>Ch</hi> 8.42 <hi>E.</hi> 3. <hi>Ch.</hi> 3.2 <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>art Cooks Inſt. pag.</hi> 50</p>
+            <p>But ſecond. The Warrant for the attachment of the ſaid perſons is illegal, not having in it the ſeve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al ingredients which ſhould make a Warrant legal.</p>
+            <p n="1">1. A legal Warrant ought to be in writi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g in the name and under the ſeal of him that makes it, ex<g ref="char:EOLhyphen"/>preſſing his office, place and authority by force whereof he makes it.</p>
+            <p>But this Warrant is under the band of M. <hi>Brown,</hi> who doth not only make but execute it alſo, being both Judg and party, which is a practiſe which the Law abhors; nay he is the perſon accuſing, having accuſed them in the name of a pretended power, (viz. the Lords,) he himſelf makes a Warrant in his own caſe, then as an Officer or Judg be p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s his own Warrant in execution, which practiſe of his I pre<g ref="char:EOLhyphen"/>sume will hardly be judged legal or reaſonable, eſpecially in M <hi>John Brown Clericus Parhomentorum,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not only tending to the diſhonor of his Royal Maſters, but alſo rendering him unfit for ſuch a weigh<g ref="char:EOLhyphen"/>ty and honorable employment.</p>
+            <p n="2">2. The Warrant ought to contain the cauſe, and that with convenient certainty, if for treaſon, then for what treaſon, or if for felony, then for what felony, &amp;c. But this Warrant contains no cauſe (al<g ref="char:EOLhyphen"/>though the words of the Law are poſtitive <hi>Niſi cauſa pro qua Captus, &amp;c.</hi> unleſs the cauſe why a man ſhould be taken be expreſſed, the Warrant cannot be legal,) only to anſwer ſuch things as ſhall be object<g ref="char:EOLhyphen"/>ed, &amp;c. Is the cauſe in this Warrant contained, which is indeed no cauſe at all; (complaints being no
+<pb n="5" facs="tcp:150169:4"/>crimes in Law,) a man being happily never the more guilty becauſe complained of; and if the La<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhould tolerate the impriſonment or perſons upon complaint only, before the hearing of both partie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and matter of crime be proved, certainly we were the worſt of ſlaves, as having our liberties ſubjected t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the power of great men, malice and envy of every malicious or diſcontented perſon. But to preven<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this evil the Law hath well provided, that a free-man ſhall not be taken or impriſoned, unleſs he b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſented before Juſtices by good and lawful men, or elſe that ſome crime in Law appear upon record againſt him.</p>
+            <p n="3">3 The Warrant muſt not only contain the cauſe, but it muſt have a legal concluſion; viz. <hi>him ſafe<g ref="char:EOLhyphen"/>ly to keep, till he be active<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed by due proceſs of Law,</hi> and not <hi>during pl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſure,</hi> or till <hi>further order,</hi> as this Warrant is; ſo that upon th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole matter it is clear, that theſe perſons are in priſon without either le<g ref="char:EOLhyphen"/>gal Magiſtrate, legal Warrant, or legal Crime, only priſoners to the Lords (alias M. <hi>Brownes</hi>) will, all which proceedings are an abſolute ſubverſion of the fundamental Laws of the Nation.</p>
+            <p>But to proceed, having as aforeſaid broke open <hi>Poyn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z,</hi> alias <hi>Morrice</hi>'s houſe, ſeized his writings, and attached the perſon of his wife, <hi>Mary Poyntz,</hi> alias <hi>Morrice, Iſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bella Smith,</hi> and <hi>Leonara Darbie,</hi> and <hi>John-Harris,</hi> by vertue of the ſaid Warran<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they kept them in cuſtody for the ſpace of three weeks, with<g ref="char:EOLhyphen"/>out lay<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng any thing to their charge, about which time they carried them before the Lords, where they were examined upon ſeveral Interogatorie, which proceedings was altogether illegal, and by themſelves ſo adjudged in ſeveral caſes. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut it being demanded by the Lords amongſt other things where they had the Copy of the Act in queſtion; anſwer was made by <hi>Darby</hi> and <hi>Smith,</hi> that <hi>William Hunt,</hi> an under Clerk of the Houſe of Commons gave it them, and produced their witneſs to prove the ſame, who affirmed upon oath before the Lords, that <hi>Hunt</hi> did acknowledg the delivery of the Co<g ref="char:EOLhyphen"/>py of an Act for the joyning the two old mens eſtates together, <hi>Poyntz</hi> and <hi>Morrice;</hi> and that he ſaid further, if <hi>Brown</hi> would be a knave, and deny h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s hand, yet he would not, notwithſtanding they were thus according to Law cleared, as was by their Councel openly proved at the Lords Bar according to witneſs, yet by the prevalency of M. <hi>Brown</hi> and <hi>Littleton,</hi> they were by the Lords committed to four ſeveral priſons where they remain (all ſave one, who was afterward removed by M. <hi>Browns</hi> command from <hi>Newgate</hi> to the <hi>Gatehouſe,</hi> becauſe ſhe had too much favour,) unto thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, being often examined, but never any one witneſs brought face to face againſt them, nor any forgery proved; notwithſtand<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng all which their impriſonment during pleaſure was continued, from the 7. of <hi>June</hi> 1647 unto this day; After which (although <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here was not any one witneſs produced to ſwear or atteſt that the ſaid Copy was forged, but many to p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove the contrary, yet m. <hi>Brown</hi> and <hi>Littleton</hi> under hand, and privately got the original of the ſaid Act remaining in M. <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owns</hi> office, condemned by the Lords; a book put <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut in print of it againſt <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyntz</hi> alias <hi>Morrice,</hi> and his friends, and hanged upon Romford Gallows, by <hi>Little<g ref="char:EOLhyphen"/>ton</hi>'s inſtigation one <hi>Web</hi> did it, the like evil any never heard of (The Copy of which Act under his hand he had formerly atteſted,) which Copy by means whereof was condemned alſo, as being nothing when the validity of the original was taken away and deſtroyed by the ſaid Judgment; after which <hi>John Poyntz,</hi> alias <hi>Morrice</hi> was adviſed by M. <hi>Twiſden</hi> a member of the honorable houſe of Commons, to go to make a ſearch in M. <hi>Audly</hi> his office, m. <hi>Audly</hi> having formerly told him, that if his Client came to his office, he ſhould find ſomething which would <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o him g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od; he remembring a ſuit that had been between <hi>Iohn Poyntz,</hi> alias <hi>Morrice,</hi> that married <hi>Kat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erine,</hi> and one <hi>Dockery</hi> who married the mother of Lady <hi>Littleton;</hi> which this <hi>Poyntz,</hi> alias <hi>Morrice</hi> ſuddenly after did, in which office of mr. <hi>Audly</hi>'s was found by mr. <hi>Beaſly</hi> a Clerk of the ſaid office, in the preſence of mr. <hi>Bel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enger</hi> the bag-beater of the ſaid office, and Sir <hi>Iohn Clav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng,</hi> the ſaid Act in queſtion, and ſeveral other Records, in one bundle of partchments together old and d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſty; the Copies whereof was taken out, examined, and atteſted under mr <hi>Audly</hi>'s hand the maſter of the ſaid office, and by him affirmed at the Lords Bar.</p>
+            <p>Now by the way it is requiſite to obſerve (that whereas one of mr <hi>Brownes</hi> main arguments to prove theſe perſons guilty of forgery, is, that the ſaid Records are not Regiſtred, whereupon he and <hi>Littleton,</hi> falſly ſuggeſts unto the Lords, that the woman Mrs <hi>Smith</hi> ſhuffled them into the ſeveral offices for him) this <hi>Poyntz,</hi> alias <hi>Morrice</hi> had never known, neither ſhe that he could have got any knowledg of the ſtrength of his title by a ſearch in M. <hi>Audly</hi> his office, if M. <hi>Audly</hi> himſelf had not by his words to M. <hi>Twiſden,</hi> and M. <hi>Twiſdens</hi> advice given thereupon, induced him thereunto; when if he or his friends had counterfeited or ſhuffled them in, as is alleadged, being queſtioned, they would conſequently have at firſt and at once produced all thoſe teſtimonies, as well as the ſingle Copy of the Act under
+<pb n="6" facs="tcp:150169:5"/>
+               <hi>Brownes</hi> hand; but it is clear, that they never knew that the Act was upon Record in mr. <hi>Audlies</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffice, till after it was queſtioned, and therefore cannot be concluded guilty of that ſlanderous accuſati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, framed on purpoſe to blaſt the credit of <hi>Poyntz,</hi> alias <hi>morrice</hi> his title and witneſſes, to the end that mr. <hi>Brown</hi> may the better make good his Warrant upon the eſtate to <hi>Littleton</hi> and his heirs, of whom he <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>either to receive ſome conſideration, or elſe hath bought the eſtate for ſome inconſiderable ſum, other<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſe ſure mr. <hi>Brown</hi> would never have digged ſo deep into hell, to the hazard of his ſoul, and the ſhip<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rack of a good conſcience, to ſecure, the intereſt of the <hi>Littletons,</hi> making their cauſe his, and employ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g all his power, policy and intereſt that he hath or can any way make to ſupport them by the de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>truction of ſeveral innocent perſons, as ſhall afterward be more fully manifeſted. For mr. <hi>Brown</hi> and <hi>Littleton</hi> went from priſon to priſon for the ſpace of 12. moneths threatning the Keepers, if that they <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lsowed <hi>morrice</hi> or his witneſſes any liberty they ſhould loſe their places, and gave command to the Kee<g ref="char:EOLhyphen"/>pers to lock them cloſe, and let none come at them, and if that they did periſh it was nothing to them, they need take no notice of it; and mr. <hi>Brown</hi> being asked for his order, ſaid, he was ſufficient. And after he got the knowledg that the foreſaid Act, with other Records (which made good <hi>Poyntz,</hi> alias <hi>morris</hi> his title to the eſtate in queſtion,) were upon record in maſter Audlys office; alſo (having firſt gotten the original and Copy thereof with mr <hi>Browns</hi> hand to it, delivered to him by mr <hi>Twiſden,</hi> to be condemned,) he went to Mr. <hi>Audly</hi> and threatned to have him fined if he ſhould dare to maintain any thing againſt him: In order whereunto he cauſed the ſaid <hi>Audly</hi> to be brought before the Lords, and endeavored to have him fined and turned out of his office; notwithſtanding all which the ſaid Mr. <hi>Audly</hi> pleaded by two Councel, viz. Sir <hi>The. Witherington,</hi> and M <hi>Maynard,</hi> and extream honeſtly, and like an Engliſhman, and a Chriſtian, maugre <hi>Browns</hi> threats and menaces, juſtified the finding of the ſaid Records, and delivery of Copies thereof, and was by his Councel, and the Clerks belonging to his of<g ref="char:EOLhyphen"/>fice, juſtified and cleared in giving Copies, and by the Lords diſcharged, v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>z. in regard there was no wit<g ref="char:EOLhyphen"/>neſs produced againſt the ſaid woman Mrs <hi>Smith,</hi> who was charged <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o foyſt them in by <hi>Brown</hi> and <hi>Little<g ref="char:EOLhyphen"/>ton,</hi> and yet the ſaid Records were brought up to the Lords after this and condemned, at the requeſt of M. <hi>Brown,</hi> and <hi>Littl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton,</hi> and <hi>Poyntz,</hi> alias <hi>Morrice,</hi> and his witneſſes adjudged and fined for a ſuppoſed for<g ref="char:EOLhyphen"/>gery of the ſaid Act and Records.</p>
+            <p>The ſaid <hi>Poyntz,</hi> alias <hi>Morrice,</hi> and <hi>Mary</hi> his wife, <hi>Iſſabella Smith, Leonard Darby,</hi> and <hi>Iohn Harris</hi> have continued priſoners ever ſince May 11. 1647. notwithſtanding ſeveral Petitions to the Lords, and ſe<g ref="char:EOLhyphen"/>veral Orders of the Lords, whereby the buſineſs hath been referred to the conſideration of the Judges, to conſider how they might be releaſed, and the opinion of the Judges given in that behalf, viz. That they might be releaſed, being they was impriſoned not for any fine, but during pleaſure; but M. <hi>Brown</hi> ab<g ref="char:EOLhyphen"/>ſolutely refuſed to ſign the ſaid Report, becauſe it ſhould not be authentick; and when the Lords yield<g ref="char:EOLhyphen"/>ed to have releaſed them upon the making of the ſaid Report, M. <hi>Brown</hi> fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſly informed the Lords, that they were impriſoned for debt, when they never had any action layd upon them, and put in a Petition to craſs the Judges report, and the Lords intention, pretending they were in contempt for not delivering in writings, which they have not, neither if they had, do concern the eſtate in queſtion, and this he doth on purpoſe to ſtarve them in priſon; and as a further evidence of his inveterate ſpleen againſt <hi>Poyntz,</hi> alias <hi>Morrice,</hi> and his enjoyment of his right, (having got him and his witneſſes into priſon, and thereby diſabled them of making their defence themſelves,) and being diſcerted by all their Councel for fear of M. <hi>Brown,</hi> who breathed out continual threats and ſlanders againſt all that ſhould dare to appear in their cauſe againſt him; they were neceſſitated to engage one M. <hi>Pendred</hi> in the pro<g ref="char:EOLhyphen"/>ſecution of their buſineſs, who with great fidelity and courage did for ſeveral moneths manage the ſame, and was in fair poſſibility by his continued addreſſes and importunancy, to effect, not only their deli<g ref="char:EOLhyphen"/>very from their impriſonment, but alſo to bring the ſaid cauſe to a tryal at Law; for prevention where<g ref="char:EOLhyphen"/>of M. <hi>Brown</hi> charged the ſaid <hi>Pendred</hi> with ſpeaking ſeveral ſeditious words againſt the Houſe, by means of which falſe report he got him committed to the <hi>Gatehouſe Weſtminſter,</hi> not ſo much as allowing him one hours liberty to put in Bayl. But the ſaid <hi>Pendred</hi> afterwards putting in ſufficient Bayl before Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Powel,</hi> one of the Juſtices of the Peace for the Liberty of <hi>Weſtminſter,</hi> was freed, which M. <hi>Brown</hi> hearing of, and knowing that <hi>Poyntz,</hi> alias <hi>Morrice</hi> was to have a hearing before the Judges that day, at Sarg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ents Inn in Fleet ſtreet, immediatly together with Juſtice <hi>Manly,</hi> and others came to the ſaid Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Powel</hi> and rated him for taking Bayl, threatning him, that if he did not ſend a Warrant and attach <hi>Pendred,</hi> he would make him looſe his Commiſſion, whereupon the ſaid Sir <hi>Edward Powel</hi> being
+<pb n="7" facs="tcp:150169:5"/>en<g ref="char:EOLhyphen"/>formed by the ſaid <hi>Pendred,</hi> that that afternoon he would be at Sergeants Inn, at <hi>Poyntz,</hi> al<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Moorice</hi>'s referrance before the Judges, got Sir <hi>John Woolaſtons</hi> Warrant to attach <hi>Pendre</hi> and carry him to the <hi>Gatehouſe,</hi> without being carryed before any Juſtice at all, or returnin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Bond of his ſureties formerly given; all which proceedings being clearly declared in a P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tition to the Lords from the ſaid <hi>Pendred,</hi> M. <hi>Brown</hi> took the Impudence to affirm, that h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bayl were Knights of the Poſt, in the open Houſe of Lords, although it be known that they a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> men of more honeſty and better credit then himſelf, and for Eſtate, for ought I know, (ſettin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aſide his office) far before him; by vertue of which Warrant he the ſaid <hi>Pendred</hi> hath alſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been kept in priſon about 8. weeks, contrary to Law; M. <hi>Brown</hi> not thinking himſelf ſa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> if any perſon be left at liberty to diſcover his unjuſt, unparaleld, wicked practiſes: But let hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know, that neither his power, policy or friends ſhall be able to protect him from the hand <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Juſtice, or keep his groſs knavery concealed; for what he doth in ſecret ſhall be publiſhed o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the houſe top: And though Juſtice ſeem to ſlumber for a ſeaſon, yet ſhe will awake and ſtretch out her arm, and weigh his actions in the ballance, and finding them too light, with one ſtroke ſweep him and them from the face of the earth, which they have polluted: Therefore it were to be wiſhed, that he would conſider and repent, leſt a worſe miſchief befall him then yet hath hapned.</p>
+            <p>Thus have you a true Narrative of the ſtate of the Caſe of <hi>Poyntz,</hi> alias <hi>Morrice,</hi> and his wit<g ref="char:EOLhyphen"/>neſſes, who have bin impriſoned about 17. months, although they in all their Petitions have deſired nothing but their freedomes, a fair tryal at Common Law, according to evidence and witneſs on both ſides heard, that ſo the benefit of Law, and birthright of the Subject may effe<g ref="char:EOLhyphen"/>ctually take place, and that the writings taken away may be reſtored. (<hi>Poyntz,</hi> alias <hi>Morrice</hi> himſelf having never ſo much as bin before any Magiſtrate ſince the time of his impriſonment:) Now if this be not an imparraleld piece of injuſtice, if this be not a wickedneſs in high places, if this be not an abomination that will make deſolate, if not only redreſſed but alſo repented of, I leave to all rational men to judg, eſpecially all you, the <hi>peoples Repreſentatives,</hi> who have bin intruſted, and have taken upon you to hear, receive and redreſs the grievances of the people whom you repreſent, and puniſh their oppreſſors, be they high or low, rich or poor, friend or foe, without reſpect to any thing but pure Juſtice; here is a fit Subject for you to inſiſt upon, here is a piece of injuſtice of a bloody tincture, of a ſcarlet dye: Oh that your ſpeedy Juſtice herein might prepare a place for you in the affection of the people of this Nation, who for want hereof have in a great meaſure eſtranged themſelves, and divorſed themſelves from you, which they had formerly eſpouſed; Oh therefore if you have the hearts of Engliſhmen, if you be Chriſtians, if you would hope for protection in the evil day, rouze up your ſelves, a<g ref="char:EOLhyphen"/>wake from that Lethargy of ſottiſh ſecurity that you have long bathed your ſelves in; gird your ſword unto your thigh, and be what you ſhould be, a terror to evill doers, a protection to the innocent, and relief for the oppreſſed; then ſhall your Enemies be confounded, your re<g ref="char:EOLhyphen"/>proaches removed, and your reproachers ſilenced; then ſhall the people love you, and your ho<g ref="char:EOLhyphen"/>nor not only continued but enlarged, and which is beſt, your conſciences will bear a ſweet te<g ref="char:EOLhyphen"/>ſtimony of peace and comfort, when all other dependencies ſhall take wings and fly from you.</p>
+            <p>And all you Engliſhmen and Chriſtians, to whoſe hand this paper ſhall come, I beſeech you lay theſe poor mens condition to heart: By the ſame means that they are like to be deſtroyed, thou mayſt be deſtroyed alſo; if Records, nay Acts of Parliament, may, at the will C<g ref="char:EOLhyphen"/>lerk,
+<pb n="8" facs="tcp:150169:6"/>becauſe they croſs his intereſt, be cancelled, removed, deſtroyed, and annulled, what <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecurity can be had in the enjoyment of any eſtate? This is the Tyranny indeed ſo much fear<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and decryed againſt in others, but <hi>ip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o facto</hi> practi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d by the Lords, and Mr <hi>Brown,</hi> and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Accomplices. Therefore if thou haſt any ſence of compaſſion, or chriſtianity, joyn in a petition to the Honorable Houſe of Commons for the execution of ſpeedy Juſtice in this and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch like Caſes: See you not how the Priſons ſwarm with Priſoners of pleaſure? ſuffer not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir undoing to be made a preſident for your own miſery. For by the ſame Law that <hi>Poy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tz</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lias <hi>Morrice</hi> and his Witneſſes &amp;c. may be impriſoned ſeventeen moneths without hearing, without Crime, without Witneſſes, by the ſame Law you may be impriſoned alſo; you having no more protection then they, or any other; all the liberty you enjoy being but during the pleaſure of a few men, who are acted by no other rule but their wills, and friends perſwa<g ref="char:EOLhyphen"/>ſions: For if M. <hi>Brown</hi> ſay, you forge an Act, the Lords will beleeve it, and you ſhall be im<g ref="char:EOLhyphen"/>priſoned and fined: If M. <hi>Brown</hi> ſay, you ſpeak ſeditious words againſt that Houſe the Lords will beleeve it, without Witneſs, nay againſt Evidence upon Oath to the contrary; although the Law hath provided that a Freemans liberty ſhould not be taken from him, unleſs a legal Crime be proved upon Oath againſt him before a Judg or Juſtice of the Peace, &amp;c. The due Execution of Law is your birth-right and protection; let therefore your timely endeavors be imployed for the due Execution thereof, now while you have an opportunity, leſt by your ſenceleſſneſs of their, unjuſt ſufferings, you bring an irrecoverable miſchief upon your ſelves and poſterity, and then, when it is too late, you repent, but cannot prevent your deſtruction.</p>
+            <p>
+               <hi>Gentle Reader, Know that this is no Pamphlet or Scandal, but certain Truths, which divers well-affected people are ſatisfied in, and have knowledg of; and if Juſtice, in this caſe, do not the ſpeedier take place, then thou mayſt expect a Charge by way of Articles, promiſed thee for thy better ſatisfaction, at ſight whereof the heart of every Engliſhman, that hath either fear of God, or the leaſt ſpark of grace, will ſtand amazed, and rend his heart with grief to ſee ſuch horrible Oppreſſion in a Land where the Gospel is planted, and Chriſtianity profeſſed, and especially in time of Parliament, and days of Reformation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150169:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
